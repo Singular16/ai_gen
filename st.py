@@ -1,5 +1,5 @@
 import streamlit as st
-from steamlit_lottie import st_lottie
+from steamlit_lottie import streamlit_lottie
 # import requests
 
 st.set_page_config(
