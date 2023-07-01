@@ -13,7 +13,10 @@ with st.container():
 	st.title("i am from TOGO")
 	st.write("i am a developer")
 	st.write("learn more at https://python.org")
-
+	st.markdown("""<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4435814051162391"
+     crossorigin="anonymous"></script>""",
+		    unsafe_allow_html=True
+		   )
 
 with st.container():
 	st.write('---')
