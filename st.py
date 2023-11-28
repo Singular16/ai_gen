@@ -1,5 +1,5 @@
 import streamlit as st
-# import requests
+import requests
 
 st.set_page_config(
 	page_title = "my webpage",
